@@ -1,0 +1,1 @@
+# This is a Django based project in which host can send mailto desired Email account
